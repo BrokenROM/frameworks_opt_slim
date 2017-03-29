@@ -30,7 +30,7 @@
         <activity
             android:name="com.slim.settings.activities.InterfaceSettingsActivity"
             android:label="@string/interface_settings_title"
-            android:icon="@drawable/ic_settings_interface"
+            android:icon="@drawable/ic_settings_brokenpieces"
             android:theme="@style/Theme.Settings" >
 
             <intent-filter>
